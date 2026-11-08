@@ -1,1 +1,29 @@
+El proceso que deseo optimizar es el registro y control de ventas de una tienda de productos DXN.
 
+La tienda se dedica a la comercialización de diferentes variedades de productos de la marca DXN.
+
+Actualmente se manejan aproximadamente 50 variedades de productos.
+
+Entre estos productos existen diferentes presentaciones, cantidades y precios.
+
+El registro de las ventas se realiza completamente de forma manual.
+
+Diariamente se venden aproximadamente 30 productos.
+
+Cada registro de venta tarda alrededor de 5 minutos en completarse.
+
+Esto representa aproximadamente 150 minutos diarios dedicados únicamente al registro de ventas.
+
+La persona encargada de realizar estas actividades es quien administra y atiende la tienda.
+
+El control de las existencias también se realiza manualmente.
+
+Este procedimiento puede ocasionar errores en las cantidades, precios y actualización del inventario.
+
+Además, requiere bastante tiempo para conocer las ventas realizadas y los productos disponibles.
+
+Durante este mes se pretende optimizar este proceso mediante un sistema basado en algoritmos.
+
+El sistema permitirá registrar ventas, calcular importes y actualizar automáticamente las existencias.
+
+El objetivo es reducir el tiempo de registro, evitar errores y mejorar la administración de la tienda DXN.
